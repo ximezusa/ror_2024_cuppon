@@ -1,0 +1,38 @@
+body {
+    .roboto-light {
+        font-family: "Roboto", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+      }
+      
+    .roboto-medium {
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+ nav{
+    background-color:#28A745 ;
+ }
+
+ h2, p{
+    color: #040404
+    }
+
+.list-group-item{
+    color:#28A745
+}
+
+#list-group{
+    color:#28A745
+}
+#recibe-cupones-en-tu-correo{
+    background-color:#28A745 ;
+    text-align: center;
+
+ }
+ footer{
+    background-color: white;
+    text-align: center;
+    
+ }
+}
